@@ -1,0 +1,9 @@
+.contenedor--footer {
+    background-color: #000;
+    padding: 10px;
+}
+
+.contenedor--footer p {
+    text-align: center;
+    color: #fff;
+}
